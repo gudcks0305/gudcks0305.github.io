@@ -93,7 +93,7 @@ content:
           - 타 포지션 개발자와 이야기 하면서 부족한 다른 분야의 개발 지식에 대한 배경 지식 상승
           - 같은 포지션 개발자와 프로젝트를 하며 생기는 오류를 같이 이야기 해보고 어느 기술이 좋을지 논의하며 백엔드 기술의 배경지식 상승
           - 2022 구글 I/O 시청 이벤트를 참여하여 차세대 미래에 중요시 여겨지는 기술 동향을 파악. 또, 구글의 취약 계층 , 편견 , 환경을 대 주제로 문제를 해결해 나가는 모습을 보고 사회적 책임감을 느낄 수 있었음
-          - 타 GDSC 와 연합 활동으로 [커리어 세션](https://gdsc.community.dev/events/details/developer-student-clubs-daejin-university-presents-gdsc-career-harugan-gugeuleul-muryoceheom-haeboseyo/) 등을 운영 스태프로 참가
+#          - 타 GDSC 와 연합 활동으로 [커리어 세션](https://gdsc.community.dev/events/details/developer-student-clubs-daejin-university-presents-gdsc-career-harugan-gugeuleul-muryoceheom-haeboseyo/) 등을 운영 스태프로 참가
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
