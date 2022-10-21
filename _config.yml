@@ -63,6 +63,7 @@ content:
       - layout: left
         title: GDSC_TECH_BLOG
         link: github.com/GDSC-Daejin/GDSC-WEB-BackEnd
+        caption:  2022.02 - 2022.09
         # link_text: Project Website
         additional_links:
           - title: GDSC_TECH_BLOG
@@ -83,6 +84,7 @@ content:
       - layout: left
         title: GDSC_MSA 아키텍쳐 이전
         link: github.com/GDSC-Daejin/GDSC-DJU-MSA
+        caption:  2022.05 - 2022.09
         # link_text: Project Website
         additional_links:
           - title: GDSC_TECH_BLOG
@@ -94,7 +96,7 @@ content:
         quote: >
           GDSC 내부에서 진행 중인 프로젝트의 양이 점점 증가하고 동일한 DB , 서비스를 쉽게 확장 할 수 있도록 기존 MVC 패턴의 단일 서버에서 MSA 프로젝트로 구조를 변경 하였습니다.
         description: | # this will include new lines to allow paragraphs
-          - <mark>Stack</mark> : Java | Spring | Mysql | OCI | Spring Cloud Netflix | Eureka
+          - <mark>Stack</mark> : Java | Spring | Mysql | OCI | Spring Netflix | Eureka
           - Spring Gateway를 통한 API 통신 
           - 추가 서비스 API에 도메인 할당 불필요 
           - 서버의 확장을 수직적인 구조에서 수평적인 구조로 변경하며 동아리 내 <mark>서버 부담 감소</mark>에 기여 
@@ -128,9 +130,9 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
-          주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
-          복수전공인 컴퓨터 공학에서는 백엔드 개발자로 진로를 잡은 저에게 있어 부족한 CS 지식을 채워주었습니다. 
+         - 대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
+         - 주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
+         - 복수전공인 컴퓨터 공학에서는 백엔드 개발자로 진로를 잡은 저에게 있어 부족한 CS 지식을 채워주었습니다. 
 
 #  - title: A Little More About Me
 #    layout: text
