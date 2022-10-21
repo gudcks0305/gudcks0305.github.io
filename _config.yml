@@ -60,7 +60,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
