@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Projects # Title for the section
-    layout: left # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Super awesome project
@@ -101,24 +101,24 @@ content:
         title: Daejin University
         caption: 2017 - Present
         sub_title: 산업경영공학 | 컴퓨터공학
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
           주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
           복수전공인 컴퓨터 공학에서는 백엔드 개발자로 진로를 잡은 저에게 있어 부족한 CS 지식을 채워주었습니다. 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
