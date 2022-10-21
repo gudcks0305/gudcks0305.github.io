@@ -50,7 +50,7 @@ about_profile_image: images/hc1.jpg
 about_content: | # this will include new lines to allow paragraphs
   JAVA & Spring , 주니어 개발자로 현재 GDSC DJU 라는 동아리에서 백엔드 개발자로 내부 서비스를 구축 및 관리하고 있습니다. 
   
-  OCI , AWS 등을 이용하여 Spring 기반 웹 서버를 배포 하여 TECH Blog , ADMIN 등을 관리하고 있습니다. 
+  OCI , AWS 등을 이용하여 Spring 기반 웹 서버를 배포 하여 TECH Blog , ADMIN 서비스를 관리 중에 있습니다. 
   
   현재는 동아리 내에서 후배 개발자들을 이끌어주는 <mark>서포터</mark>로서 활동 중이며 같은 진로의 개발자들을 위한 개념 퀴즈 , 스터디등으로 도움을 주고 있습니다.
   
@@ -76,33 +76,37 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: 외부 활동 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Google Developer Student Clubs - Daejin University
+        link: https://web.gdsc-dju.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Member
+        caption:  2021.09 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Google Developer Student Clubs (GDSC) 프로그램은 학생들이 개발/리더십 능력을 키울 수 있도록 지원하는 프로그램입니다. 기술적 성장을 위한 교육자료를 제공하고 리더십 개발을 위한 다양한 활동들을 지원합니다.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          - 2주 간격 정기 세션을 통해 지식 공유을 했습니다.  
+          - 프로젝트 협업을 통해서 기존에 잘 몰랐던 GIT Flow 지식과 에자일 모델 같은 개발 방법론에 대한 지식 습득
+          - 타 포지션 개발자와 이야기 하면서 부족한 다른 분야의 개발 지식에 대한 배경 지식 상승
+          - 같은 포지션 개발자와 프로젝트를 하며 생기는 오류를 같이 이야기 해보고 어느 기술이 좋을지 논의하며 백엔드 기술의 배경지식 상승
+          - 2022 구글 I/O 시청 이벤트를 참여하여 차세대 미래에 중요시 여겨지는 기술 동향을 파악. 또, 구글의 취약 계층 , 편견 , 환경을 대 주제로 문제를 해결해 나가는 모습을 보고 사회적 책임감을 느낄 수 있었음
+          - 타 GDSC 와 연합 활동으로 [커리어 세션](https://gdsc.community.dev/events/details/developer-student-clubs-daejin-university-presents-gdsc-career-harugan-gugeuleul-muryoceheom-haeboseyo/) 등을 운영 스태프로 참가
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Daejin University
+        caption: 2017 - Present
+        sub_title: 산업경영공학 | 컴퓨터공학
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+         대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
+          주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
+          복수전공인 컴퓨터 공학에서는 백엔드 개발자로 진로를 잡은 저에게 있어 부족한 CS 지식을 채워주었습니다. 
 
 #  - title: A Little More About Me
 #    layout: text
