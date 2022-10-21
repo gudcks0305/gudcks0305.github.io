@@ -63,6 +63,7 @@ content:
       - layout: left
         title: GDSC_TECH_BLOG
         link: github.com/GDSC-Daejin/GDSC-WEB-BackEnd
+        caption:  2022.02 - 2022.09
         # link_text: Project Website
         additional_links:
           - title: GDSC_TECH_BLOG
@@ -83,6 +84,7 @@ content:
       - layout: left
         title: GDSC_MSA 아키텍쳐 이전
         link: github.com/GDSC-Daejin/GDSC-DJU-MSA
+        caption:  2022.05 - 2022.09
         # link_text: Project Website
         additional_links:
           - title: GDSC_TECH_BLOG
