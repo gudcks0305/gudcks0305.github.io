@@ -57,6 +57,27 @@ about_content: | # this will include new lines to allow paragraphs
   개발자는 꾸준하고 지속적으로 성장해야한다는 마음가짐으로 매일 적은 성과라고 하더라도 <mark>1일 1커밋</mark>을 실천 하고 있습니다. 
 
 content:
+  - title: Skill # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Backend
+        quote: >
+          프로젝트에 사용중 혹은 사용 했던 기술들 입니다.
+        description: | # this will include new lines to allow paragraphs
+          - JAVA 
+          - Spring Boot , Spring MVC , Spring Security , Spring Data JPA , Spring Cloud , Eureka
+          - JPA , Querydsl , Hibernate 
+          - Gradle
+          - IntelliJ
+      - layout: left
+        title: Devops
+        description: | # this will include new lines to allow paragraphs
+          - Mysql 
+          - Jenkins , Git Action
+          - Oracle Cloud Instance , AWS EC2
+          - Nginx , Tomcat
+          - Linux Ubuntu
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
