@@ -59,11 +59,12 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
+    quote : >
+       프로젝트에 사용중 혹은 사용 했던 기술들 입니다.
     content:
       - layout: left
         title: Backend
-        quote: >
-          프로젝트에 사용중 혹은 사용 했던 기술들 입니다.
+
         description: | # this will include new lines to allow paragraphs
           - JAVA 
           - Spring Boot , Spring MVC , Spring Security , Spring Data JPA , Spring Cloud , Eureka
