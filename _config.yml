@@ -63,7 +63,7 @@ content:
       - layout: left
         title: Backend
         quote: >
-          프로젝트에 사용중 혹은 사용 했던 기술들 입니다.
+          프로젝트에 사용 했던 기술 입니다.
         description: | # this will include new lines to allow paragraphs
           - JAVA 
           - Spring Boot , Spring MVC , Spring Security , Spring Data JPA , Spring Cloud , Eureka
@@ -163,8 +163,10 @@ content:
         title: 정보처리기사
         caption: 2022.06
         sub_title: 합격
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        quote: > 
+          컴퓨터 공학에서 수강한 과목 :  <mark>객체지향 프로그래밍</mark> <mark>웹프로그래밍</mark> , <mark>자바 프로그래밍</mark>  <mark>프론트엔드 웹 디자인</mark>
+           <mark>인공지능</mark> <mark>컴퓨터 네트워크 및 보안</mark> <mark>논리회로 및 실습</mark> <mark>캡스톤 디자인</mark> <mark>데이터베이스론</mark> 
+          <mark>데이터베이스론</mark> <mark>컴퓨터 시스템 구조</mark> <mark>운영체제론</mark> <mark>컴퓨터 알고리즘</mark>
         description: | # this will include new lines to allow paragraphs
           - 비전공자의 부족함을 채울 수 있는게 무엇일까 싶었습니다. 이 자격증을 공부하며 부족한 CS 지식 , 그리고 CS 지식의 중요함을 다시금 깨닫게 되었습니다. 
 
