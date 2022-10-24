@@ -152,7 +152,7 @@ content:
       - layout: left
         title: Daejin University
         caption: 2017 - Present
-        sub_title: 산업경영공학 | 컴퓨터공학 ( 수강 과목 )
+        sub_title: 산업경영공학 | 컴퓨터공학
         quote: >
             <mark>객체지향 프로그래밍</mark> <mark>웹프로그래밍</mark> <mark>자바 프로그래밍</mark>  <mark>프론트엔드 웹 디자인</mark>
            <mark>인공지능</mark> <mark>컴퓨터 네트워크 및 보안</mark> <mark>논리회로 및 실습</mark> <mark>캡스톤 디자인</mark> <mark>데이터베이스론</mark> 
