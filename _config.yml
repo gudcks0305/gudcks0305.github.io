@@ -16,7 +16,7 @@ darkmode: never
 
 # Social links
 #twitter_username: facespics
-github_username:  gudcks0305
+github_username: gudcks0305
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -84,7 +84,7 @@ content:
       - layout: left
         title: GDSC_TECH_BLOG
         link: github.com/GDSC-Daejin/GDSC-WEB-BackEnd
-        caption:  2022.02 - 2022.09
+        caption: 2022.02 - 2022.09
         # link_text: Project Website
         additional_links:
           - title: GDSC_TECH_BLOG
@@ -99,16 +99,16 @@ content:
           
           <mark>Stack</mark> : Java | Spring | Mysql | OCI
         description: | # this will include new lines to allow paragraphs
-            - 백엔드 팀의 <mark>팀장</mark>으로 팀내 갈등 해결 , 팀원들의 역할 분담 , 팀원들의 성장을 위한 스터디 및 트렌드 공유 등을 담당하였습니다.
-            - 저는 동아리 내 최초로 OCI 플랫폼을 도입하여 학생 개발자 동아리 <mark>서버 비용 부담을 최소화</mark> 했습니다. 
-            - 대부분의 기초 골자 코드를 작성하였으며 JWT Oauth2.0을 이용한 로그인 기능을 구현하였습니다.
-            - 프론트 로컬 환경에서 배포 환경과 다른 문제 해결책 제시 :  Cookies CORS 문제 해결 -> local 환경 Https , domain 도입 
-            - 최초로 외부 인원이 지속적으로 사용하는 서버를 제작 
-            - 지속적인 서비스를 진행함에 따라 지속적인 코드 개선을 진행 중 입니다.
+          - 백엔드 팀의 <mark>팀장</mark>으로 팀내 갈등 해결 , 팀원들의 역할 분담 , 팀원들의 성장을 위한 스터디 및 트렌드 공유 등을 담당하였습니다.
+          - 저는 동아리 내 최초로 OCI 플랫폼을 도입하여 학생 개발자 동아리 <mark>서버 비용 부담을 최소화</mark> 했습니다. 
+          - 대부분의 기초 골자 코드를 작성하였으며 JWT Oauth2.0을 이용한 로그인 기능을 구현하였습니다.
+          - 프론트 로컬 환경에서 배포 환경과 다른 문제 해결책 제시 :  Cookies CORS 문제 해결 -> local 환경 Https , domain 도입 
+          - 최초로 외부 인원이 지속적으로 사용하는 서버를 제작 
+          - 지속적인 서비스를 진행함에 따라 지속적인 코드 개선을 진행 중 입니다.
       - layout: left
         title: GDSC_MSA 아키텍쳐 이전
         link: github.com/GDSC-Daejin/GDSC-DJU-MSA
-        caption:  2022.05 - 2022.09
+        caption: 2022.05 - 2022.09
         sub_title: SOLO PROJECT
         # link_text: Project Website
         additional_links:
@@ -136,7 +136,7 @@ content:
         link: https://web.gdsc-dju.com/
         # link_text: boringcompany.com
         sub_title: Member
-        caption:  2021.09 - Present
+        caption: 2021.09 - Present
         quote: >
           Google Developer Student Clubs (GDSC) 프로그램은 학생들이 개발/리더십 능력을 키울 수 있도록 지원하는 프로그램입니다. 기술적 성장을 위한 교육자료를 제공하고 리더십 개발을 위한 다양한 활동들을 지원합니다.
         description: | # this will include new lines to allow paragraphs
@@ -154,11 +154,13 @@ content:
         caption: 2017 - Present
         sub_title: 산업경영공학 | 컴퓨터공학
         quote: >
-            
+          <mark>객체지향 프로그래밍</mark> <mark>웹프로그래밍</mark> <mark>자바 프로그래밍</mark>  <mark>프론트엔드 웹 디자인</mark>
+          <mark>인공지능</mark> <mark>컴퓨터 네트워크 및 보안</mark> <mark>논리회로 및 실습</mark> <mark>캡스톤 디자인</mark>
+          <mark>데이터베이스론</mark> <mark>컴퓨터 시스템 구조</mark> <mark>운영체제론</mark> <mark>컴퓨터 알고리즘</mark>
         description: | # this will include new lines to allow paragraphs
-         - 대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
-         - 주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
-         - 복수전공인 컴퓨터 공학에서는 백엔드 개발자로 진로를 잡은 저에게 있어 부족한 CS 지식을 채워주었습니다.
+          - 대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
+          - 주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
+          - 복수전공인 컴퓨터 공학에서는 백엔드 개발자로 진로를 잡은 저에게 있어 부족한 CS 지식을 채워주었습니다.
   - title: 자격증 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -194,4 +196,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
