@@ -154,9 +154,7 @@ content:
         caption: 2017 - Present
         sub_title: 산업경영공학 | 컴퓨터공학
         quote: >
-            수강과목 : <mark>객체지향 프로그래밍</mark> <mark>웹프로그래밍</mark> <mark>자바 프로그래밍</mark>  <mark>프론트엔드 웹 디자인</mark>
-           <mark>인공지능</mark> <mark>컴퓨터 네트워크 및 보안</mark> <mark>논리회로 및 실습</mark> <mark>캡스톤 디자인</mark> <mark>데이터베이스론</mark> 
-          <mark>데이터베이스론</mark> <mark>컴퓨터 시스템 구조</mark> <mark>운영체제론</mark> <mark>컴퓨터 알고리즘</mark>
+            
         description: | # this will include new lines to allow paragraphs
          - 대진대학교에 다니는 동안 다수의 팀 프로젝트, 협업 능력 , 사회관계 등에 대해 배웠습니다. 
          - 주전공인 산업경영공학에서 진행한 다수의 Term Project는 더 나은 상호작용에 대해 알아가게끔 했습니다. 
