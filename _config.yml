@@ -179,7 +179,7 @@ content:
       - layout: left
         title: 정보처리기사
         caption: 2022.06
-        sub_title: 합격
+        sub_title: 합격 
         #quote: >
         description: | # this will include new lines to allow paragraphs
           - 비전공자의 부족함을 채울 수 있는게 무엇일까 싶었습니다. 이 자격증을 공부하며 부족한 CS 지식 , 그리고 CS 지식의 중요함을 다시금 깨닫게 되었습니다. 
