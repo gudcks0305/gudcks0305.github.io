@@ -113,9 +113,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 백엔드 팀의 <mark>팀장</mark>으로 팀내 갈등 해결 , 팀원들의 역할 분담 , 팀원들의 성장을 위한 스터디 및 트렌드 공유 등을 담당하였습니다.
           - 저는 동아리 내 최초로 OCI 플랫폼을 도입하여 학생 개발자 동아리 <mark>서버 비용 부담을 최소화</mark> 했습니다. 
+            - OCI 플랫폼을 도입 하며 연간 20만원의 서버 비용을 절감 했습니다.  
           - 대부분의 기초 골자 코드를 작성하였으며 JWT Oauth2.0을 이용한 로그인 기능을 구현하였습니다.
-          - 프론트 로컬 환경에서 배포 환경과 다른 문제 해결책 제시 :  Cookies CORS 문제 해결 -> local 환경 Https , domain 도입 
-          - 최초로 외부 인원이 지속적으로 사용하는 서버를 제작 
+          - 프론트 로컬 환경에서 배포 환경과 다른 문제 해결책 제시 했습니다. :  Cookies CORS 문제 해결 -> local 환경 Https , domain 도입 
+          - <mark>최초로</mark> 외부 인원이 지속적으로 사용하는 서버를 제작 
           - 지속적인 서비스를 진행함에 따라 지속적인 코드 개선을 진행 중 입니다.
       - layout: left
         title: GDSC_MSA 아키텍쳐 이전
@@ -179,7 +180,7 @@ content:
       - layout: left
         title: 정보처리기사
         caption: 2022.06
-        sub_title: 합격 
+        sub_title: 합격
         #quote: >
         description: | # this will include new lines to allow paragraphs
           - 비전공자의 부족함을 채울 수 있는게 무엇일까 싶었습니다. 이 자격증을 공부하며 부족한 CS 지식 , 그리고 CS 지식의 중요함을 다시금 깨닫게 되었습니다. 
