@@ -116,7 +116,8 @@ content:
           - 대부분의 기초 골자 코드를 작성, JWT Oauth2.0을 이용한 로그인 기능을 구현하였습니다.
           - 프론트 로컬 환경에서 배포 환경과 다른 문제 해결책 제시 Cookies CORS 문제 해결 -> local 환경 Https , domain 도입 
           - <mark>최초로</mark> 외부 인원이 지속적으로 사용하는 서버를 제작 
-          Image ![](images/img.png)
+          
+          ![](images/img.png){: width="50%" }
       - layout: left
         title: GDSC_MSA 아키텍쳐 이전
         link: github.com/GDSC-Daejin/GDSC-DJU-MSA
