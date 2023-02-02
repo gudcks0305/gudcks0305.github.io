@@ -89,7 +89,7 @@ content:
           - Oracle Cloud Instance , AWS EC2
           - Nginx , Tomcat
           - Linux Ubuntu
-  - title: <bold>Project</bold> # Title for the section
+  - title: <strong>Project</strong> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -108,11 +108,11 @@ content:
         quote: >
             야! 타는 카풀 매칭 서비스 입니다. 코드스테이츠 부트 캠프에서 진행한 프로젝트 입니다.
         description: | # this will include new lines to allow paragraphs
-          - <bold>프로젝트 기간</bold> : 2023.01.04 ~ 2023.02.05
-          - <bold>프로젝트 인원</bold> : 6명
-          - <bold>프로젝트 구조</bold> : 
-          <center><img src="images/yata구조.png" width="50%" title="야!타 프로젝트" alt="야!타 프로젝트" style = "c"></img></center>
-          - <bold>맡은 역할</bold> : 백엔드 개발
+          - <strong>프로젝트 기간 :</strong>  2023.01.04 ~ 2023.02.05
+          - <strong>프로젝트 인원 :</strong>  6명
+          - <strong>프로젝트 구조 :</strong>  
+          <center><img src="images/yata구조.png" width="70%" title="야!타 프로젝트" alt="야!타 프로젝트" style = "c"></center>
+          - <strong>맡은 역할 : </strong>  백엔드 개발
             - Toss 결제 API 연동
             - 백엔드 총괄
             - 위치 기반 서비스 구축
@@ -121,7 +121,7 @@ content:
             - 배치 기능 구축
             - AOP를 이용한 기능 분리
             - Spring Security Auth , Email 인증
-          - <bold>기여한 점</bold>
+          - <strong>기여한 점</strong>
             - Redis 캐싱 , Hibernate 2차 캐싱 도입으로 성능 응답 시간 60% 감소
             - 배치 기능을 통해 만료된 예약을 자동으로 취소 , 만료된 카풀 글을 만료 처리하여 사용자 편의성 증진 
             - 외부 의존성을 제거한 개발 환경 구축 ( Docker X )
