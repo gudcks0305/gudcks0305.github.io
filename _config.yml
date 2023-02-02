@@ -67,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   이런 강점이 있었기 때문에 현재 동료 개발자들에 비해 <strong>빠른 성장</strong>을 이루고 있습니다.
   
-  <h3>나의 깃허브 잔디</h3>
+  <h5>나의 깃허브 잔디</h5>
   <center><img src="https://ghchart.rshah.org/219138/gudcks0305"/></center>
 
 content:
