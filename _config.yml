@@ -190,7 +190,7 @@ content:
           코드 스테이츠 부트캠프 41기 백엔드 과정을 수료 하였습니다.
         description: | # this will include new lines to allow paragraphs
           - 24주간의 백엔드 과정을 진행하였습니다.
-          - Java | Spring 을 통한  <mark>REST API</mark> 개발
+          - Java Spring 을 통한  <mark>REST API</mark> 개발
           - 스터디 활동으로 1일 1커밋 실천 
           - 내부 부트 캠프 인원들에게 개인적인 멘토링 활동을 진행
       - layout: left
