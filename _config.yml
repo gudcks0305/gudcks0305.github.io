@@ -150,7 +150,7 @@ content:
             - OCI 플랫폼을 도입 하며 연간 20만원의 서버 비용을 절감 
           - 대부분의 기초 골자 코드를 작성, JWT Oauth2.0을 이용한 로그인 기능을 구현하였습니다.
           - 프론트 로컬 환경에서 배포 환경과 다른 문제 해결책 제시 Cookies CORS 문제 해결 -> local 환경 Https , domain 도입 
-          - <mark>최초로</mark> 외부 인원이 지속적으로 사용하는 서버를 제작 
+          - <strong>최초로</strong> 외부 인원이 지속적으로 사용하는 서버를 제작 
           
           <center><img src="images/img.png" width="50%"></center>
           <hr>
@@ -173,13 +173,26 @@ content:
           <mark>Stack</mark> : Java | Spring | Mysql | OCI | Spring Netflix | Eureka
         description: | # this will include new lines to allow paragraphs
           - Spring Gateway를 통한 API 통신 
-          - 동일한 도메인에서 서비스 할 수 있게 하여 <mark>서비스 확장성에 기여</mark> 하였습니다. 
-          - 서버의 확장을 수직적인 구조에서 수평적인 구조로 변경하며 <mark>서버 부담 감소</mark>에 기여 
-          - 각각의 서비스를 나누어 관리할 수 있게 됨에 따라 <mark>유지보수의 능률 상승</mark>에 기여 
+          - 동일한 도메인에서 서비스 할 수 있게 하여 <strong>서비스 확장성에 기여</strong> 하였습니다. 
+          - 서버의 확장을 수직적인 구조에서 수평적인 구조로 변경하며 <strong>서버 부담 감소</strong>에 기여 
+          - 각각의 서비스를 나누어 관리할 수 있게 됨에 따라 <strong>유지보수의 능률 상승</strong>에 기여 
           - 지속적인 서비스를 진행함에 따라 지속적인 코드 개선을 진행 중 입니다.
   - title: 외부 활동 # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: 코드스테이츠 부트캠프 41기 백엔드 과정
+        # link: https://web.gdsc-dju.com/
+        # link_text: boringcompany.com
+        sub_title: BACKEND
+        caption: 2022.08 - 2023.02.15
+        quote: >
+          코드 스테이츠 부트캠프 41기 백엔드 과정을 수료 하였습니다.
+        description: | # this will include new lines to allow paragraphs
+          - 24주간의 백엔드 과정을 진행하였습니다.
+          - Java | Spring 을 통한  <mark>REST API</mark> 개발
+          - 스터디 활동으로 1일 1커밋 실천 
+          - 내부 부트 캠프 인원들에게 개인적인 멘토링 활동을 진행
       - layout: left
         title: Google Developer Student Clubs - Daejin University
         link: https://web.gdsc-dju.com/
