@@ -93,6 +93,40 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: YATA! ( 야! 타 ) 카풀 매칭 서비스
+        link: https://github.com/codestates-seb/seb41_main_021
+        caption: 2023.01 - 2022.02
+        sub_title: TEAM PROJECT
+        # link_text: Project Website
+        additional_links:
+          - title: 야타! 프로젝트 Github
+            icon: fab fa-github
+            url: github.com/codestates-seb/seb41_main_021
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            야! 타는 카풀 매칭 서비스 입니다. 코드스테이츠 부트 캠프에서 진행한 프로젝트 입니다.
+        description: | # this will include new lines to allow paragraphs
+          - 프로젝트 기간 : 2023.01.04 ~ 2023.02.05
+          - 프로젝트 인원 : 6명
+          - 프로젝트 구조 : 
+          <center><img src="images/yata구조.png" width="50%" title="야!타 프로젝트" alt="야!타 프로젝트" style = "c"></img></center>
+          - 맡은 역할 : 백엔드 개발
+            - Toss 결제 API 연동
+            - 백엔드 총괄
+            - 위치 기반 서비스 구축
+            - 알림 서비스 구축
+            - 인프라 구축( 배포, CI/CD )
+            - 배치 기능 구축
+            - AOP를 이용한 기능 분리
+            - Spring Security Auth , Email 인증
+          - 기여한 점 
+            - Redis 캐싱 , Hibernate 2차 캐싱 도입으로 성능 응답 시간 60% 감소
+            - 배치 기능을 통해 만료된 예약을 자동으로 취소 , 만료된 카풀 글을 만료 처리하여 사용자 편의성 증진 
+            - 외부 의존성을 제거한 개발 환경 구축 ( Docker X )
+
+      - layout: left
         title: GDSC_TECH_BLOG
         link: github.com/GDSC-Daejin/GDSC-WEB-BackEnd
         caption: 2022.02 - 2022.09
