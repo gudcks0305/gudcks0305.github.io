@@ -94,7 +94,7 @@ content:
     content:
       - layout: left
         title: YATA! ( 야! 타 ) 카풀 매칭 서비스
-        link: https://github.com/codestates-seb/seb41_main_021
+        link: https://yata-tau.vercel.app/
         caption: 2023.01 - 2023.02
         sub_title: TEAM PROJECT
         # link_text: Project Website
