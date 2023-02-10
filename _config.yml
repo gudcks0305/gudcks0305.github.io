@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 유형찬
 title: JAVA 백엔드 개발자
-email: gudcks305@gmail.com
+#email: gudcks305@gmail.com
 website: https://velog.io/@gudcks0305
 
 # Dark Mode (true/false/never)
